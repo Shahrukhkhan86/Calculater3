@@ -43,7 +43,7 @@
         android:text="SUBTRACT" />
 
     <Button
-        android:id="@+id/multi"
+        android:id="@+id/multiply"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="MULTYPLY" />
@@ -53,4 +53,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="DIVIDE" />
+
+    <Button
+        android:id="@+id/mudulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MODULO %" />
 </LinearLayout>
